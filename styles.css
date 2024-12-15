@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+
+canvas {
+  display: block;
+  margin: 20px auto;
+  background-color: #222;
+}
+
+#message {
+  font-size: 18px;
+  margin-top: 20px;
+}
